@@ -24,3 +24,22 @@ h4{
     font-size:50px;
     font-weight:lighter;
 }
+
+section{
+    height: 740px;
+    width: 25%;
+    background-color:#64b0a7;
+}
+
+h2{
+    font-size: 40px;
+}
+
+ol{
+    
+    font-size: 35px;
+}
+
+#white{
+    color: white;
+}
