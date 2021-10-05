@@ -26,7 +26,6 @@ h4{
 }
 
 section{
-    height: 740px;
     width: 25%;
     background-color:#64b0a7;
 }
@@ -42,4 +41,24 @@ ol{
 
 #white{
     color: white;
+}
+article{
+    width:75%;
+    background-color:#ffffff;
+    float:right;
+}
+
+article,section{
+    display:inline-block;
+    height:740px;
+}
+p{
+    font-size:25px;
+    padding:40px;
+}
+div{
+    width:85%;
+    height:50%;
+    border:1px solid black;
+    margin:auto;
 }
